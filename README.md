@@ -116,7 +116,7 @@ Room I: Upload  →  Room II: Visual Recognition (CLIP)  →  Room III: Retrieva
 
 # 📸 Demo
 
-_Add screenshots or a short demo video/GIF of the app here — e.g. the upload screen, the identified artwork profile, and a sample chat conversation._
+![App Screenshot](Screenshot 2026-07-30 072731.png)
 
 ---
 
