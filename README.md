@@ -8,7 +8,7 @@
 | ---------------- | ------------------------------------ |
 | Full Name        | Nesma Nasser Galal                   |
 | Project Name     | ArtMuse AI                           |
-| GitHub Username  | NeSma237                             |
+| GitHub Username  | _NeSma237_                           |
 | Challenge Batch  | June–July 2026                       |
 | Training Program | Large Language Models (LLMs) Program |
 | Organization     | [**Edrak for Ai**](https://edrak4ai.com/en) |
@@ -116,7 +116,10 @@ Room I: Upload  →  Room II: Visual Recognition (CLIP)  →  Room III: Retrieva
 
 # 📸 Demo
 
-![App Screenshot](Screenshot 2026-07-30 072731.png)
+![App Screenshot](./screenshots/Screenshot%202026-07-30%20072731.png)
+![App Screenshot](./screenshots/Screenshot%202026-07-30%20072731.png)
+
+_More screenshots or a short demo video/GIF can be added here — e.g. the identified artwork profile and a sample chat conversation._
 
 ---
 
